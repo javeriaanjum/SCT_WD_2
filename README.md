@@ -1,2 +1,16 @@
 # SCT_WD_2
-Interactive Stopwatch Web Application with Start, Pause, Reset and Lap Time functionality using HTML, CSS and JavaScript.
+
+Interactive Stopwatch Web Application
+
+## Features
+- Start Stopwatch
+- Pause Stopwatch
+- Reset Stopwatch
+- Record Lap Times
+- Responsive Design
+- Pink & Purple UI Theme
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
